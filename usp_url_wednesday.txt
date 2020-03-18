@@ -1,0 +1,2 @@
+'https://www.blinkhealth.com/api/v2/user/drugs/detail/HALOPERIDOL/dosage/244419/quantity/30', '200', '286801'};
+'https://www.blinkhealth.com/api/v2/user/drugs/detail/SERTRALINE-HCL/dosage/283710/quantity/60', '200', '292936'};
